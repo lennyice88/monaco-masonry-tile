@@ -1,0 +1,8 @@
+# OS / OneDrive cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
